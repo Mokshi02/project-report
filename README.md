@@ -1,1 +1,4 @@
 # project-report
+**Day-1**
+I'm very glad to do project with my teachers and my mates.Firstly what I have to do as told by my mentor is to do installation of **Moodle**.So for that I downloaded the **XAMPP** by which I can setup the php and mysql platform for the moodle app.And after that with help of xampp application I'm able to start moodle app.Our team took much time for installation, but when the installation process was completed the happiness was ultimate for team and mentors.After installation the work assigned was to read the database for moodle application from php.And started understanding the database.The database having about 200+ table.The table I started was the course table.By which I able to understand how to add courses to my application.
+The main motive for our project is to get the course attainment, by which we can calculate the course attainment by the individual student.
