@@ -19,3 +19,8 @@ No work done today.
 --
 
 Today our group has a dicussion session, in which our mentor Er.Satinder Sir guided us about the plugins. With ***plugins*** we can attach additional features to moodle application. With these plugins moodle application can be upgraded. So sir said us to plugin the ***games*** to our created course. So first we went to official site of moodle i.e <http://moodle.org>. Then from there I opened ***plugin***, there are numbers of plugins. From there I downloaded the ***game zip file***. Then went to my moodle and attached that plugin. After that when I clicked on add activity in my course, then there was column of game. So from that I can add the games like crossword,sudoku etc. After that I went to <http://localhost/phpmyadmin/db_structure.php?server=1&db=bitnami_moodle>, there I checked that a new database for the game was created. There was table named ***mdl_game***, which has the list of games and also there was database for game attempts,game grades etc.
+
+**2 April**
+--
+
+Today first I tried to formulate a formula to calculate the attainment, with help of ***pdf*** sent by our mentor Dr.Amit Kamra Sir. From there I found the table which has some data w.r.t the course outcomes. But there I found a problem ablout data i.e what that data contains that was not understandable. So after that I send that query to our mentor. And also we are today assigned with the work to find the code for assignment in which we can make changes and try to add a new column at frontend. But couldn't find the code and instead that we find the code for certificate form <https://docs.moodle.org/dev/Activity_modules>. We try to find the code for assignment .
