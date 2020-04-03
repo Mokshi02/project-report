@@ -24,3 +24,29 @@ Today our group has a dicussion session, in which our mentor Er.Satinder Sir gui
 --
 
 Today first I tried to formulate a formula to calculate the attainment, with help of ***pdf*** sent by our mentor Dr.Amit Kamra Sir. From there I found the table which has some data w.r.t the course outcomes. But there I found a problem ablout data i.e what that data contains that was not understandable. So after that I send that query to our mentor. And also we are today assigned with the work to find the code for assignment in which we can make changes and try to add a new column at frontend. But couldn't find the code and instead that we find the code for certificate form <https://docs.moodle.org/dev/Activity_modules>. We try to find the code for assignment .
+
+**3 April**
+--
+
+# FlowChart
+![flowchart image](https://github.com/Mokshi02/project-report/blob/master/Untitled%20Diagram.jpg).
+
+
+
+
+> **1.**
+   Start the process.
+> **2.** 
+  Take input as 'course outcome' from the teacher in the textbox.
+> **3.**
+  Store in the database.
+> **4.**
+  Fetching the grades for particular CO.
+> **5.**
+  Calculating course outcome attainment scored by student.
+>**6.** 
+    Storing attainment in the database.
+>**7.**
+    Display attainment at moodle or another page.
+>**8.**
+    End.
