@@ -50,3 +50,14 @@ Today first I tried to formulate a formula to calculate the attainment, with hel
     Display attainment at moodle or another page.
 >**8.**
     End.
+
+**15 April**
+--
+
+Firstly we have to know about that ***What are Competencies?***
+
+So competency is defined as combination of skills, knowledge, attributes and behaviours that allows individual to perform a perticular task successfully. Competency has the observable behaviour that can be measured and evaluated and then essential for developing. Compentency enable the individual of an organisation to have the clear understanding the levels of performance expectrd in order to achieve the organisation goals. 
+
+Then we come to know that ***What is a Competency framework?***  
+
+So compentecy framework is model that describes performance excellence within an organisation. This framework includes number of competencies which are applied to numerous occupational roles within an organisation. Each competency defines excellence in working behaviour. It ensures that people working in same organisation have common understanding of organisation's values and excellent performance behaviours. There are various components of the framework such as core values, core competencies, functional competencies.
