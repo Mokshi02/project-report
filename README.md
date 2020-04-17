@@ -66,3 +66,16 @@ So compentecy framework is model that describes performance excellence within an
 --
 
 Today we studied the links sent by our mentor. First we have the link <https://docs.moodle.org/38/en/Competencies>. In this we studied that administrator can set up the competency framework and then can add competencies to them. In this administrator can create the learning plan, add competencies to that plan and then assign to particular selected individual or to whole organisation. Then we studied the link <https://docs.moodle.org/38/en/Grade-items#Outcome_items>. In this we studies about the outcome in moodle. In this we come to know that outcomes are specific descriptions of what the student has understood after the completion of an activity or the whole course. In this process each outcome is rated by some scale or we can say that grading method has some sort of scale by which the teacher assign the grade. The administrator can add competencies to the entire course or to particular activity of the course. The administrator can view the competency in the block and then rate the competency level.  
+
+**17 April**
+--
+
+***Competency***: It describes the desired knowledge, skills and behaviour of an individual graduating from course. Competencies generally defines the applied skills and knowledge that enable the individual to successfully perform in professional and educational contexts. For the educational point these are added by the teacher to the particular course or to particular activity.
+
+***Course Outcome***: This is the specific statement that describes exactly what the student will able to gain or do in measurable way. There may be more than one outcome defined for given competency. These are the basics for an assessment program that focuses on what student should be able to do after compeletion of the course.
+
+Lets take example of our course ***Computer Architecture And Microprocessor***: In this teacher has defined competencies and course outcomes for the students.
+
+Let's take that competency is ***Self Awareness***: It describes the student leaders develop thorough understanding of themselves across multiple dimensions. Through different activities, they recignise how their leadership practice and beliefs are influenced by their values and how there behaviour affect their ability to lead.
+
+***Course Outcome***: The students which demonstrate competency in self-awareness can define their personal values, describe their leadership, strenghts and limitations, evaluate and reflect on their actions and modify as necessary.
